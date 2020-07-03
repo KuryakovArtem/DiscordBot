@@ -7,7 +7,7 @@ Discord bot with different features. Was made for fun and listening music inside
 :white_check_mark: !commands - List of commands with helpful nodes      
 :white_check_mark: !gachi - Random gachi quote     
 :white_check_mark: !ping - ping all members in channel with message     
-:black_square_button: !clear - Clear N messages in text channel     
 :white_check_mark: !join - Connect bot to play music in voice channel     
 :white_check_mark: !leave - Leave voice channel     
 :black_square_button: !play - Play music in channel     
+:black_square_button: !clear - Clear N messages in text channel     
